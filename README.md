@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lina98st
 - 👀 I’m interested in technology and food
 - 🌱 I’m currently learning html, css, java script
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... don't
 - 😄 Pronouns: her
 - ⚡ Fun fact: I love cats, whisky and red wine
