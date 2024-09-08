@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alina @lina98st
 - 👀 I’m interested in technology and food
-- 🌱 I’m currently learning html, css, java script, jquery, node.js
+- Tech Skills: HTML, CSS, JavaScript, jQuery, Node.js
 - 😄 Pronouns: her
 - MBTI Personality type: INTJ
 - ⚡ Fun fact: I love cats, whisky and red wine. I worked in IT Sales for 4,5 years before switching to Web dev, which is my real passion.
