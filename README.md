@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alina @lina98st
-- Tech Skills: HTML, CSS, JavaScript, jQuery, Node.js, Responsive Webdesign
+- Tech Skills: HTML, CSS, JavaScript, jQuery, Node.js, Vue.js, Responsive Webdesign
 - Pronouns: her
 - MBTI Personality type: INTJ
 
