@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Alina @lina98st<br>Tech Skills: HTML, CSS, JavaScript, jQuery, Node.js, Vue.js, TailwindCSS<br>Currently learning: React, TypeScript<br>MBTI Personality type: INTJ
+👋 Hi, I’m Alina @lina98st<br>Tech Skills: HTML, CSS, JavaScript, Vuejs, jQuery, Node.js, TailwindCSS<br>Currently learning: React, TypeScript<br>MBTI Personality type: INTJ
 
 
 # 💻 Tech Stack:
