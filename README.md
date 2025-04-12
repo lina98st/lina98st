@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Alina @lina98st<br> 💻 Web Developer | 💡 Lifelong Learner | 🚀 Passion for Frontend & UI/UX<br>Tech Skills: HTML, CSS, JavaScript, Vuejs, jQuery, Node.js, TailwindCSS<br>Currently learning: TypeScript, Express.js (REST API)<br>MBTI Personality type: INTJ
+Hi, I’m Alina @lina98st<br> 💻 Web Developer | 💡 Lifelong Learner | 🚀 Passion for Frontend & UI/UX<br>Tech Skills: HTML, CSS, JavaScript, Vuejs, jQuery, Node.js, TailwindCSS<br>MBTI Personality type: INTJ
 
 
 # 💻 Tech Stack:
