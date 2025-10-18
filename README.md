@@ -1,5 +1,5 @@
-<h1 align="center">Alina</h1>
-<h3 align="center">Web Developer | Focused on Frontend & UI/UX</h3>
+<h2 align="center">Alina</h2>
+<p align="center"><b>Web Developer | Focused on Frontend & UI/UX</b></p>
 
 ---
 
@@ -24,4 +24,5 @@ HTML • CSS • JavaScript • Vue • jQuery • TailwindCSS • React • Nod
 ---
 
 <p align="center">"Build it clean. Keep it clear." ✨</p>
+
 
