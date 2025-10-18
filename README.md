@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me  
-I’m a web developer who cares about clean design, structure, and user experience.  
+I’m a fullstack developer who cares about clean design, structure, and user experience.  
 I like writing code that’s simple, logical, and easy to maintain.  
 Always learning, always refining — one project at a time.  
 
