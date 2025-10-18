@@ -15,7 +15,7 @@ HTML • CSS • JavaScript • Vue • jQuery • TailwindCSS • React • Nod
 
 ---
 
-### ⚡ Fun Facts  
+### ⚡ Facts about me
 - Turns small improvements into full redesigns  
 - Thinks clarity is the best feature of good code  
 - Loves minimal layouts and precise spacing  
