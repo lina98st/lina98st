@@ -1,11 +1,33 @@
-# About Me:
-Hi, I’m Alina @lina98st<br> 💻 Web Developer | Lifelong Learner | Passion for Frontend & UI/UX<br>Tech Skills: HTML, CSS, JavaScript, Vue, jQuery, TailwindCSS, REST API, React, Node.js, Express.js, MongoDB<br>MBTI Personality type: INTJ<br>
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lina98st&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lina98st&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lina98st&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h1 align="center">👋 Hey, I'm Cormac McLaggen</h1>
+<h3 align="center">Frontend Developer | Coffee Addict | Always shipping (eventually)</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-React-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Code-Next.js-black?style=flat-square&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Code-Node.js-green?style=flat-square&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/DB-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
+---
+
+### 💼 About Me  
+🏗️ Building clean UIs that actually work<br>
+☕ Survives on caffeine and console.log()<br>
+💬 Prefers dark mode and quiet commits<br>
+📍 Based somewhere between code and caffeine  
+
+---
+
+### ⚡ Fun Facts  
+- Thinks `console.log("why?")` fixes 80% of problems  
+- Believes comments are for the weak  
+- Has more unfinished side projects than working ones  
+- Once said “it’s done” and immediately pushed a bug  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmclaggen&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cmclaggen&theme=radical" height="160"/>
+</p>
