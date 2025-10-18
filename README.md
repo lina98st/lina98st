@@ -8,7 +8,7 @@ I’m a fullstack developer who cares about clean design, structure, and user ex
 I like writing code that’s simple, logical, and easy to maintain.  
 Always learning, always refining — one project at a time.  
 
-**Tech I work with:**  
+**Skills & Technologies:**  
 HTML • CSS • JavaScript • Vue • jQuery • TailwindCSS • React • Node.js • Express.js • MongoDB  
 
 **MBTI:** INTJ  
