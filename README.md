@@ -19,7 +19,7 @@ HTML • CSS • JavaScript • Vue • jQuery • TailwindCSS • React • Nod
 - Turns small improvements into full redesigns  
 - Thinks clarity is the best feature of good code  
 - Loves minimal layouts and precise spacing  
-- Has one “temporary” fix that’s still in use — and flawless  
+- Prefers the company of cats over people  
 
 ---
 
