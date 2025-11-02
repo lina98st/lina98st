@@ -9,7 +9,7 @@ I like writing code that’s simple, logical, and easy to maintain.
 Always learning, always refining 
 
 **Skills & Technologies:**  
-HTML • CSS • JavaScript • Vue • jQuery • TailwindCSS • React • Node.js • Express.js • MongoDB  
+HTML • CSS • JavaScript • Vue • jQuery • TailwindCSS • Bootstrap • React • Node.js • Express.js • MongoDB  
 
 **MBTI:** INTJ  
 
