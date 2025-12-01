@@ -16,10 +16,10 @@ HTML • CSS • JavaScript • Vue • jQuery • TailwindCSS • Bootstrap •
 ---
 
 ### ⚡ Facts about me
-- Turns small improvements into full redesigns  
-- Thinks clarity is the best feature of good code  
-- Loves minimal layouts and precise spacing  
-- Prefers the company of cats over people  
+- Tech/IT is my passion 
+- I love cats 
+- My personality type is INTJ
+- ...  
 
 ---
 
