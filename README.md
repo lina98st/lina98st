@@ -3,7 +3,7 @@
 
 ---
 
-### 🧠 About Me  
+### About Me  
 I’m a fullstack developer who cares about clean design, structure, and user experience.  
 I like writing code that’s simple, logical, and easy to maintain.  
 Always learning, always refining 
@@ -15,7 +15,7 @@ HTML • CSS • JavaScript • Vue • jQuery • TailwindCSS • Bootstrap •
 
 ---
 
-### ⚡ Facts about me
+### Facts about me
 - Tech/IT is my passion 
 - I love cats 
 - My personality type is INTJ
