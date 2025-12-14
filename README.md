@@ -19,7 +19,6 @@ HTML • CSS • JavaScript • Vue • jQuery • TailwindCSS • Bootstrap •
 - Tech/IT is my passion 
 - I love cats 
 - My personality type is INTJ
-- ...  
 
 ---
 
