@@ -1,5 +1,5 @@
 <h2 align="center">Alina</h2>
-<p align="center"><b>Web Developer | Focused on Frontend & UI/UX</b></p>
+<p align="center"><b>Web Developer | Focused on Frontend</b></p>
 
 ---
 
