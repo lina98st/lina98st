@@ -7,6 +7,8 @@
 I’m a fullstack developer who cares about clean design, structure, and user experience.  
 I like writing code that’s simple, logical, and easy to maintain.  
 
+My background in web development comes from completed courses and self-study.
+
 **Skills & Technologies:**  
 HTML • CSS • JavaScript • React • Vue • jQuery • TailwindCSS • Bootstrap • Node.js • Express.js • MongoDB  
 
