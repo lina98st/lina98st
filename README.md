@@ -14,6 +14,23 @@ HTML • CSS • JavaScript • React • Vue • jQuery • TailwindCSS • Boo
 
 ---
 
+### Projects
+
+MyLinks → React, Vite, CSS  
+https://mylinks-alina.netlify.app/
+
+Budget Planner → JavaScript, HTML, CSS  
+https://lina98st.github.io/budgetplaner/
+
+Burger Website → HTML, CSS  
+https://lina98st.github.io/burger-bar/
+
+Hunter x Hunter → JavaScript, HTML, CSS  
+https://lina98st.github.io/hxh-anime/
+
+
+---
+
 ### Facts about me
 - Tech/IT is my passion 
 - I love cats 
