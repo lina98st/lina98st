@@ -16,17 +16,18 @@ HTML • CSS • JavaScript • React • Vue • jQuery • TailwindCSS • Boo
 
 ### Projects
 
-MyLinks → React, Vite, CSS  
+MyLinks → React, HTML, CSS  
 https://mylinks-alina.netlify.app/
 
-Budget Planner → JavaScript, HTML, CSS  
+Budget Planner → Vue.js, HTML, CSS  
 https://lina98st.github.io/budgetplaner/
 
-Burger Website → HTML, CSS  
+Burger Website → HTML, CSS, JavaScript  
 https://lina98st.github.io/burger-bar/
 
-Hunter x Hunter → JavaScript, HTML, CSS  
+Hunter x Hunter → Vue.js, Tailwind CSS, TypeScript  
 https://lina98st.github.io/hxh-anime/
+
 
 
 ---
