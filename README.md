@@ -38,6 +38,7 @@ https://lina98st.github.io/hxh-anime/
 - Tech is my passion 
 - I love cats 
 - From Germany with Russian roots
+- Background in IT & Business
 
 ---
 
