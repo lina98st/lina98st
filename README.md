@@ -43,5 +43,5 @@ https://lina98st.github.io/hxh-anime/
 
 ---
 
-<p align="center">"Build it clean. Keep it clear." ✨</p>
+<p align="center">"Build it clean. Keep it clear."</p>
 
