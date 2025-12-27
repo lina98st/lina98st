@@ -11,7 +11,7 @@ My background in web development comes from completed courses and self-study.
 Coding full-time since mid-2024, working in IT since 2019.
 
 **Skills & Technologies:**  
-HTML • CSS • JavaScript • React • Vue • jQuery • TailwindCSS • Bootstrap • Node.js • Express.js • MongoDB  
+HTML • CSS • JavaScript • React • Vue • TailwindCSS • Bootstrap • Node.js • Express.js • MongoDB  
 
 **MBTI:** INTJ  
 
