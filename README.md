@@ -19,6 +19,8 @@ HTML • CSS • JavaScript • React • Vue • TailwindCSS • Bootstrap • 
 
 ### Projects
 
+New projekts coming soon....
+
 MyLinks → React, HTML, CSS  
 https://mylinks-alina.netlify.app/
 
