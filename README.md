@@ -21,7 +21,7 @@ Creating projects that solve real problems, not just tutorial code
 
 ---
 
-**INTJ** - From Germany with Russian roots. I love cats. 🐱
+**INTJ** - From Germany with Russian roots. 
 
 ---
 
