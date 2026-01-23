@@ -4,13 +4,11 @@
 
 ### Web Developer | Focused on Frontend
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-
 </div>
 
 ---
 
-## ✨ About Me
+## About Me
 
 I'm a **fullstack developer** who cares about clean design, structure and user experience.  
 I like writing code that's **simple, logical and easy to maintain**.  
@@ -18,7 +16,7 @@ Coding full-time since mid-2024, working in IT since 2019.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ```javascript
 const skills = {
@@ -44,7 +42,7 @@ const skills = {
 
 ---
 
-## 🌱 What I'm Working On
+## What I'm Working On
 
 ```diff
 + Completing Nucamp's Fullstack and Mobile Development Bootcamp
@@ -55,7 +53,7 @@ const skills = {
 
 ---
 
-## 🌍 About
+## About
 
 **INTJ** • From Germany 🇩🇪 with Russian roots 🇷🇺
 
@@ -63,22 +61,8 @@ const skills = {
 
 <div align="center">
 
-### 💭 Philosophy
+### ✨ Philosophy
 
 > *"Build it clean. Keep it clear."*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
-
-</div>
-
-### 💭 Philosophy
-
-> *"Build it clean. Keep it clear."*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
 </div>
