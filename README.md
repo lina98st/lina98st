@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## ✨ About Me
 
 I'm a **fullstack developer** who cares about clean design, structure and user experience.  
 I like writing code that's **simple, logical and easy to maintain**.  
@@ -44,7 +44,7 @@ const skills = {
 
 ---
 
-## 💡 What I'm Working On
+## 🌱 What I'm Working On
 
 ```diff
 + Completing Nucamp's Fullstack and Mobile Development Bootcamp
@@ -62,6 +62,16 @@ const skills = {
 ---
 
 <div align="center">
+
+### 💭 Philosophy
+
+> *"Build it clean. Keep it clear."*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+
+</div>
 
 ### 💭 Philosophy
 
