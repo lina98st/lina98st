@@ -17,7 +17,6 @@ Coding full-time since mid-2024, working in IT since 2019.
 ---
 
 ## Tech Stack
-
 ```javascript
 const skills = {
   frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Vue'],
@@ -43,7 +42,6 @@ const skills = {
 ---
 
 ## What I'm Working On
-
 ```diff
 + Completing Nucamp's Fullstack and Mobile Development Bootcamp
 + Building a new portfolio to showcase my projects
