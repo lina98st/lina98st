@@ -3,8 +3,6 @@
 # Alina
 **Fullstack Web Developer**
 
-*Transforming ideas into elegant, functional code*
-
 </div>
 
 ## Professional Summary
