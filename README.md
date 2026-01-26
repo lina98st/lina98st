@@ -9,7 +9,7 @@
 
 Fullstack developer specializing in frontend architecture with a focus on clean code, intuitive design, and scalable solutions. Dedicated to creating applications that balance technical excellence with exceptional user experience.
 
-**Experience Timeline:** Full-time development since mid-2024 | IT professional since 2019
+**Background:** Coding as a hobby since mid-2024 | IT experience since 2019
 
 ---
 
