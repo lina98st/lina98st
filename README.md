@@ -48,13 +48,12 @@ Fullstack developer specializing in frontend development. Focus on clean code, i
 
 **Professional Development**
 - Completing Nucamp Fullstack and Mobile Development Bootcamp
-- Expanding backend architecture knowledge
+- Expanding backend knowledge
 - Building production-ready portfolio site
 
 **Project Focus**
-- Developing real-world solutions beyond tutorial scope
-- Implementing best practices in code maintainability
-- Creating user-centered applications
+- Creating projects that solve real problems
+- Not just following tutorials
 
 ---
 
