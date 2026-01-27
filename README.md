@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-Fullstack developer specializing in frontend architecture with a focus on clean code, intuitive design, and scalable solutions. Dedicated to creating applications that balance technical excellence with exceptional user experience.
+Fullstack developer specializing in frontend development. Focus on clean code, intuitive design, and scalable solutions.
 
 **Background:** Coding in my free time for about 1.5 years | Working in IT since 2019
 
