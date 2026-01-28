@@ -67,6 +67,6 @@ Fullstack developer specializing in frontend development. Focus on clean code, i
 
 <div align="center">
 
-*"Build it clean. Keep it clear."*
+*"Always learning, always building."*
 
 </div>
