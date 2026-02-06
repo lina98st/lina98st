@@ -1,7 +1,7 @@
 <div align="center">
 
 # Alina
-**Fullstack Web Developer**
+**Fullstack Engineer focused on Frontend**
 
 </div>
 
