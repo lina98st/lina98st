@@ -9,7 +9,7 @@
 
 Fullstack developer with strong focus on frontend. Clean code, intuitive interfaces, scalable applications.
 
-Working in IT since 2019. Building web projects consistently for over a year.
+Coding in my free time for about 1.5 years | Working in IT since 2019
 
 ---
 
