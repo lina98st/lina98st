@@ -7,19 +7,19 @@
 
 ## Professional Summary
 
-Fullstack developer specializing in frontend development. Focus on clean code, intuitive design, and scalable solutions.
+Fullstack developer with strong focus on frontend. Clean code, intuitive interfaces, scalable applications.
 
-**Background:** Coding in my free time for about 1.5 years | Working in IT since 2019
+Working in IT since 2019. Building web projects consistently for over a year.
 
 ---
 
-## Technical Expertise
+## Tech Stack
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Frontend Development
+### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -34,7 +34,7 @@ Fullstack developer specializing in frontend development. Focus on clean code, i
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Styling Frameworks
+### Styling
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
@@ -44,29 +44,23 @@ Fullstack developer specializing in frontend development. Focus on clean code, i
 
 ---
 
-## Current Initiatives
+## Focus
 
-**Professional Development**
-- Completing Nucamp Fullstack and Mobile Development Bootcamp
-- Expanding backend knowledge
-- Building production-ready portfolio site
+Building real world projects  
+Improving backend skills  
+Developing production ready applications  
 
-**Project Focus**
-- Creating projects that solve real problems
-- Not just following tutorials
+Currently completing Fullstack and Mobile Development Bootcamp
 
 ---
 
-## Background
+## About
 
-**Personality Type:** INTJ  
-**Location:** Germany 🇩🇪  
-**Heritage:** Russian roots 🇷🇺
-
----
+Based in Germany  
+IT background since 2019  
 
 <div align="center">
 
-*"Always learning, always building."*
+*"Always learning. Always building."*
 
 </div>
