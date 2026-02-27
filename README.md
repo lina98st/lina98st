@@ -29,10 +29,10 @@ Tailwind CSS, Bootstrap
 
 ## Focus
 
-Building real world projects
-Improving backend skills
-Developing production ready applications
-Currently completing a Fullstack and Mobile Development Bootcamp
+- Building real world projects
+- Improving backend skills
+- Developing production ready applications
+- Currently completing a Fullstack and Mobile Development Bootcamp
 
 ---
 
