@@ -1,6 +1,6 @@
 <div align="center">
 # Alina
-**Fullstack Engineer focused on Frontend**
+Fullstack Engineer focused on Frontend
 </div>
 
 ## Professional Summary
