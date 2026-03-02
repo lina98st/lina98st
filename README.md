@@ -8,7 +8,7 @@ Fullstack Engineer · Frontend focused · Based in Germany
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 | Frontend: | Mobile: | Backend & DB: | Styling: |
 |---|---|---|---|
@@ -16,7 +16,7 @@ Fullstack Engineer · Frontend focused · Based in Germany
 
 ---
 
-### 🚀 Currently
+### Currently
 - Completing a Fullstack & Mobile Development Bootcamp
 - Building production ready projects
 - Deepening backend skills
