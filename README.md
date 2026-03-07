@@ -12,7 +12,7 @@ Fullstack Engineer · Frontend focused · Based in Germany
 
 | Frontend: | Mobile: | Backend & DB: | Styling: |
 |---|---|---|---|
-| HTML, CSS, JavaScript, React, Vue.js | React Native | Node.js, Express.js, MongoDB | Tailwind CSS, Bootstrap |
+| HTML, CSS, JavaScript, React, Vue.js | React Native | Node.js, Express.js, MongoDB | CSS, Tailwind CSS, Bootstrap |
 
 ---
 
