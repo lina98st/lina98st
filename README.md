@@ -24,5 +24,5 @@ Fullstack Engineer · Frontend focused · Based in Germany
 ---
 
 <div align="center">
-IT background since 2019 · Coding passionately for 1.5 years
+IT background since 2019 · Coding passionately for almost 2 years
 </div>
