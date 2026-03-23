@@ -17,20 +17,9 @@ Currently deepening backend knowledge and building real world applications.
 
 ## 🧩 Tech
 
-**Frontend**  
-HTML · CSS · JavaScript · React · Vue  
-
-**Mobile**  
-React Native  
-
-**Backend**  
-Node.js · Express  
-
-**Database**  
-MongoDB  
-
-**Styling**  
-Tailwind · Bootstrap  
+| Frontend | Mobile | Backend | Database | Styling |
+|----------|--------|---------|----------|---------|
+| HTML · CSS · JavaScript · React · Vue | React Native | Node.js · Express | MongoDB | Tailwind · Bootstrap |
 
 ---
 
