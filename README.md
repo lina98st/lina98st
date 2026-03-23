@@ -8,73 +8,48 @@
 
 ---
 
-## 👩🏽‍💻 About Me
+## 👩🏻‍💻 About Me
 
-- 🌸 Focus on clean UI and smooth UX  
-- 💻 Currently deepening backend skills  
-- 🧩 Building production ready applications  
-- 🎀 Goal: Create scalable and meaningful products  
+Focus on clean interfaces and thoughtful user experiences.  
+Currently deepening backend knowledge and building real world applications.
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 Tech
 
-### Frontend
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
+**Frontend**  
+HTML · CSS · JavaScript · React · Vue  
 
-### Mobile
-![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=react)
+**Mobile**  
+React Native  
 
-### Backend & DB
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+**Backend**  
+Node.js · Express  
 
-### Styling
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
+**Database**  
+MongoDB  
+
+**Styling**  
+Tailwind · Bootstrap  
 
 ---
 
 ## 🧠 Current Focus
 
-- 🎓 Fullstack & Mobile Development Bootcamp  
-- 💻 Backend architecture and APIs  
-- 🧱 Building real world projects  
+- Fullstack & Mobile Development Bootcamp  
+- Backend architecture and APIs  
+- Building production ready projects  
 
 ---
 
-## 🩷 Featured Projects
+## 🩷 Projects
 
-<!-- Ersetze mit deinen Repos -->
-- 🧷 Project Name  
-  Short description  
-  Tech: React, Node.js  
-  👉 Link
-
-- 🧷 Project Name  
-  Short description  
-  Tech: Vue, MongoDB  
-  👉 Link  
+Projects will be added here soon.  
 
 ---
 
-## 📊 GitHub Stats
+## 🌸 Philosophy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  <i>Crafting code with clarity and intention</i>
+  <i>Clean code. Thoughtful design. Real impact.</i>
 </p>
