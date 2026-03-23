@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=capsule&color=F78FB3,FFB6C1&height=220&section=header&text=Alina&desc=Frontend%20Software%20Engineer&fontSize=45&fontColor=ffffff&descSize=18&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8A5C2,100:F78FB3&height=200&section=header&text=Alina&fontSize=40&fontColor=ffffff"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F78FB3&center=true&vCenter=true&lines=Fullstack+Engineer;Frontend+Focused;React+%2F+Vue+Lover;Building+real+world+projects"/>
+</p>
+
+---
 
 ## 👩🏻‍💻 About Me
 
