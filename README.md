@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8A5C2,100:F78FB3&height=200&section=header&text=Alina&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F78FB3,100:F8A5C2&height=220&section=header&text=Alina&desc=Fullstack%20Engineer%20%7C%20Frontend%20Focused&fontSize=45&fontColor=ffffff&descSize=18&descAlignY=65&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F78FB3&center=true&vCenter=true&lines=Fullstack+Engineer;Frontend+Focused;React+%2F+Vue+Lover;Building+real+world+projects"/>
-</p>
 
 ---
 
