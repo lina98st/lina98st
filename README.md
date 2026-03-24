@@ -7,7 +7,7 @@
 
 ## 👩🏻‍💻 About Me
 
-Focus on clean interfaces and thoughtful user experiences.  
+Focus on clean interfaces and thoughtful user experiences.
 Currently deepening backend knowledge and building real world applications.
 
 ---
