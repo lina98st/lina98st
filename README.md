@@ -24,6 +24,7 @@ Currently deepening backend knowledge and building real world applications.
 - Nucamp Fullstack & Mobile Development Bootcamp  
 - Backend architecture and APIs  
 
+
 ---
 
 ## 🩷 Projects
