@@ -15,7 +15,7 @@ Currently deepening backend knowledge and building real world applications.
 
 | Frontend | Mobile | Backend | Database | Styling |
 |----------|--------|---------|----------|---------|
-| HTML · CSS · JavaScript · React · Vue | React Native | Node.js · Express | MongoDB | Tailwind · Bootstrap |
+| HTML · CSS · JavaScript · React · Vue · Redux | React Native | Node.js · Express | MongoDB | Tailwind · Bootstrap |
 
 ---
 
@@ -23,7 +23,6 @@ Currently deepening backend knowledge and building real world applications.
 
 - Nucamp Fullstack & Mobile Development Bootcamp  
 - Backend architecture and APIs  
-
 
 ---
 
