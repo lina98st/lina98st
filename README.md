@@ -19,7 +19,7 @@ Currently deepening backend knowledge and building real world applications.
 
 ---
 
-## 🧠 Current Focus
+## 🧠 Current Focus 
 
 - Nucamp Fullstack & Mobile Development Bootcamp  
 - Backend architecture and APIs  
