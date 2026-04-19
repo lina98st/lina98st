@@ -29,15 +29,16 @@ Currently deepening backend knowledge and building real world applications.
 ## 🩷 Projects
 
 ### Cocktail Finder
-A fullstack cocktail search app. The frontend is built with React and integrates the TheCocktailDB API, featuring dynamic routing, form validation with Formik, and a dynamic ingredient parser. The backend is a RESTful API built with Node.js, Express, and MongoDB, featuring JWT authentication, role-based access control, HTTPS, and CORS.
+Built a React app integrating the TheCocktailDB REST API, featuring dynamic routing, form validation with Formik, and a dynamic ingredient parser handling variable API data structures.
+Built a RESTful API with Node.js, Express, and MongoDB, featuring JWT based authentication, role based access control, HTTPS, CORS, and full CRUD operations with protected endpoints.
 
 - [Frontend](https://github.com/lina98st/cocktail-finder)
 - [Backend](https://github.com/lina98st/cocktail-finder-backend)
 
 ### Cocktail App React Native
-A mobile version of the Cocktail Finder app built with React Native.
+Built a cross-platform mobile app with React Native and Redux Toolkit, featuring global state management, favorites system, native share functionality, and nested stack and tab navigation.
 
-- [Repo](https://github.com/lina98st/cocktail-app-react-native) 
+- [Repo](https://github.com/lina98st/cocktail-app-react-native)
 
 ---
 
