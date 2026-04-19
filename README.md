@@ -28,7 +28,16 @@ Currently deepening backend knowledge and building real world applications.
 
 ## 🩷 Projects
 
-Projects will be added here soon.  
+### Cocktail Finder
+A fullstack cocktail search app. The frontend is built with React and integrates the TheCocktailDB API, featuring dynamic routing, form validation with Formik, and a dynamic ingredient parser. The backend is a RESTful API built with Node.js, Express, and MongoDB, featuring JWT authentication, role-based access control, HTTPS, and CORS.
+
+- [Frontend](https://github.com/lina98st/cocktail-finder)
+- [Backend](https://github.com/lina98st/cocktail-finder-backend)
+
+### Cocktail App React Native
+A mobile version of the Cocktail Finder app built with React Native.
+
+- [Repo](https://github.com/lina98st/cocktail-app-react-native) 
 
 ---
 
