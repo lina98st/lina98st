@@ -11,7 +11,7 @@ Currently deepening backend knowledge and building real world applications.
 
 ---
 
-## Tech Skills =>
+## Tech Skills
 
 | Frontend | Mobile | Backend | Database | Styling |
 |----------|--------|---------|----------|---------|
