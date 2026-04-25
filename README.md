@@ -3,15 +3,15 @@
 </p>
 
 ---
-
+ 
 ## 👩🏻‍💻 About Me
-
-I focus on clean interfaces and thoughtful user experiences.  
-Currently deepening my backend knowledge while building real-world applications.
+ 
+Focus on clean interfaces and thoughtful user experiences.
+Currently deepening backend knowledge and building real world applications.
 
 ---
 
-## 🛠 Tech Skills
+## Tech Skills
 
 | Frontend | Mobile | Backend | Database | Styling |
 |----------|--------|---------|----------|---------|
@@ -19,29 +19,26 @@ Currently deepening my backend knowledge while building real-world applications.
 
 ---
 
-## 🧠 Current Focus
+## 🧠 Current Focus 
 
-- Fullstack & Mobile Development Bootcamp (Nucamp)  
-- Backend architecture and API design  
+- Nucamp Fullstack & Mobile Development Bootcamp  
+- Backend architecture and APIs  
 
 ---
 
 ## 🩷 Projects
 
 ### Cocktail Finder
-React application integrating the TheCocktailDB REST API with dynamic routing, Formik validation, and a custom ingredient parser for variable API data.
-
-Backend built with Node.js, Express, and MongoDB featuring JWT authentication, role-based access control, HTTPS, CORS, and protected CRUD endpoints.
+Built a React app integrating the TheCocktailDB REST API, featuring dynamic routing, form validation with Formik, and a dynamic ingredient parser handling variable API data structures.
+Built a RESTful API with Node.js, Express, and MongoDB, featuring JWT based authentication, role based access control, HTTPS, CORS, and full CRUD operations with protected endpoints.
 
 - [Frontend](https://github.com/lina98st/cocktail-finder)
 - [Backend](https://github.com/lina98st/cocktail-finder-backend)
 
----
+### Cocktail App React Native
+Built a cross-platform mobile app with React Native and Redux Toolkit, featuring global state management, favorites system, native share functionality, and nested stack and tab navigation.
 
-### Cocktail App (React Native)
-Cross-platform mobile app using React Native and Redux Toolkit with global state management, favorites system, native sharing, and nested navigation.
-
-- [Repository](https://github.com/lina98st/cocktail-app-react-native)
+- [Repo](https://github.com/lina98st/cocktail-app-react-native)
 
 ---
 
@@ -50,3 +47,4 @@ Cross-platform mobile app using React Native and Redux Toolkit with global state
 <p align="center">
   <i>Clean code. Thoughtful design. Real impact.</i>
 </p>
+
