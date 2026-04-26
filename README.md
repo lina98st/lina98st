@@ -13,9 +13,10 @@ Currently deepening backend knowledge and building real world applications.
 
 ## Tech Skills
 
-| Frontend | Mobile | Backend | Database | Styling |
-|----------|--------|---------|----------|---------|
-| HTML · CSS · JavaScript · React · Vue · Redux | React Native | Node.js · Express | MongoDB | Tailwind · Bootstrap |
+| Frontend | Mobile | Backend | Database | Cloud & Deployment | Styling |
+|----------|--------|---------|----------|--------------------|---------|
+| HTML · CSS · JavaScript · React · Vue · Redux | React Native | Node.js · Express | MongoDB | Google Cloud Functions · Firebase Hosting · MongoDB Atlas · Google Cloud Storage | Tailwind · Bootstrap |
+
 
 ---
 
