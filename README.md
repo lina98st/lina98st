@@ -28,7 +28,7 @@ Currently deepening backend knowledge and building real world applications.
 
 ## 📚 Bootcamp
 
-Completed the Nucamp Full Stack & Mobile Development Bootcamp, covering the full MERN stack (MongoDB, Express, React, Node.js), React Native, and topics including JWT authentication, OAuth, HTTPS, CORS, and cloud deployment with Google Cloud Functions and Firebase.
+Completed the Nucamp Full Stack & Mobile Development Bootcamp, covering the full MERN stack (MongoDB, Express, React, Node.js), React Native, and topics including JWT authentication, OAuth, HTTPS, CORS, and cloud deployment with Google Cloud Functions, Firebase, and Google Cloud Storage.
 
 ---
 
