@@ -31,12 +31,6 @@ Currently expanding into backend architecture and cloud infrastructure.
 **Mobile**
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
----
-
-## 🧠 Current Focus 
-
-- Nucamp Fullstack & Mobile Development Bootcamp  
-- Backend architecture and APIs  
 
 ---
 
