@@ -3,8 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3C6E,50:FF6F91,100:FFA6C1&height=280&section=header&text=Alina&desc=Fullstack%20Engineer%20%7C%20Frontend%20Focused&fontSize=60&descSize=22&descAlignY=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-## About Me
-
+---
+ 
+## 👩🏻‍💻 About Me
+ 
 Fullstack engineer with a frontend focus. I build clean interfaces backed
 by solid APIs, with attention to user experience and code structure.
 Currently expanding into backend architecture and cloud infrastructure.
@@ -31,32 +33,36 @@ Currently expanding into backend architecture and cloud infrastructure.
 
 ---
 
-## Projects
+## 🧠 Current Focus 
 
-### Cocktail Finder — Web App
-
-A fullstack application built around the TheCocktailDB API.
-
-The frontend uses React with dynamic routing and Formik for form validation,
-including a custom ingredient parser to handle inconsistent API data structures.
-The backend is a RESTful Node.js/Express API with MongoDB, JWT authentication,
-role-based access control, and protected CRUD endpoints secured via HTTPS and CORS.
-Deployed with Google Cloud Functions and Google Cloud Storage.
-
-[Frontend](https://github.com/lina98st/cocktail-finder) · [Backend](https://github.com/lina98st/cocktail-finder-backend)
+- Nucamp Fullstack & Mobile Development Bootcamp  
+- Backend architecture and APIs  
 
 ---
 
-### Cocktail App — React Native
+## 📚 Bootcamp
 
-Cross-platform mobile app with React Native and Redux Toolkit.
-
-Covers global state management, a persistent favorites system,
-native share integration, and nested stack/tab navigation.
-
-[Repository](https://github.com/lina98st/cocktail-app-react-native)
+Completed the Nucamp Full Stack & Mobile Development Bootcamp, covering the full MERN stack (MongoDB, Express, React, Node.js), React Native, and topics including JWT authentication, OAuth, HTTPS, CORS, and cloud deployment with Google Cloud Functions, Firebase, and Google Cloud Storage.
 
 ---
+
+## 🩷 Projects
+
+### Cocktail Finder
+Built a React app integrating the TheCocktailDB REST API, featuring dynamic routing, form validation with Formik, and a dynamic ingredient parser handling variable API data structures.
+Built a RESTful API with Node.js, Express, and MongoDB, featuring JWT based authentication, role based access control, HTTPS, CORS, and full CRUD operations with protected endpoints.
+
+- [Frontend](https://github.com/lina98st/cocktail-finder)
+- [Backend](https://github.com/lina98st/cocktail-finder-backend)
+
+### Cocktail App React Native
+Built a cross-platform mobile app with React Native and Redux Toolkit, featuring global state management, favorites system, native share functionality, and nested stack and tab navigation.
+
+- [Repo](https://github.com/lina98st/cocktail-app-react-native)
+
+---
+
+## 🌸 Philosophy
 
 <p align="center">
   <i>Clean code. Thoughtful design. Real impact.</i>
