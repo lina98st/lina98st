@@ -12,7 +12,7 @@ Currently expanding into backend architecture and cloud infrastructure.
 
 ---
 
-## 🛠️ Tech Skills
+## Tech Skills
 
 **Frontend**
 
