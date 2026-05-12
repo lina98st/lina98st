@@ -42,12 +42,6 @@ Currently expanding into backend architecture and cloud infrastructure.
 
 ---
 
-## 📚 Bootcamp
-
-Completed the Nucamp Full Stack & Mobile Development Bootcamp, covering the full MERN stack (MongoDB, Express, React, Node.js), React Native, and topics including JWT authentication, OAuth, HTTPS, CORS, and cloud deployment with Google Cloud Functions, Firebase, and Google Cloud Storage.
-
----
-
 ## 🩷 Projects
 
 ### Cocktail Finder
@@ -64,6 +58,12 @@ Built a RESTful API with Node.js, Express, and MongoDB, featuring JWT based auth
 Built a cross-platform mobile app with React Native and Redux Toolkit, featuring global state management, favorites system, native share functionality, and nested stack and tab navigation.
 
 - [Repo](https://github.com/lina98st/cocktail-app-react-native)
+
+---
+
+## 📚 Bootcamp
+
+Completed the Nucamp Full Stack & Mobile Development Bootcamp, covering the full MERN stack (MongoDB, Express, React, Node.js), React Native, and topics including JWT authentication, OAuth, HTTPS, CORS, and cloud deployment with Google Cloud Functions, Firebase, and Google Cloud Storage.
 
 ---
 
