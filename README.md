@@ -1,74 +1,48 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3C6E,50:FF6F91,100:FFA6C1&height=280&section=header&text=Alina&desc=Fullstack%20Engineer%20%7C%20Frontend%20Focused&fontSize=60&descSize=22&descAlignY=60&fontColor=ffffff&animation=fadeIn"/>
-</p>
+# Hi, I'm Alina 👋
+
+Frontend-focused fullstack developer. I build interfaces that feel good to use and APIs that support them properly. Self-taught over the past two years, working across the full MERN stack with a strong preference for the frontend side.
+
+Currently based in Germany.
 
 ---
 
-## 👩🏻‍💻 About Me
-
-Fullstack engineer with a frontend focus. I build clean interfaces backed
-by solid APIs, with attention to user experience and code structure.
-Currently expanding into backend architecture and cloud infrastructure.
-
----
-
-## Tech Skills
+## Tech Stack
 
 **Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+**Backend & Mobile**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**☁️ Cloud & Tools**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+**Cloud & Tools**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🩷 Projects
+## Projects
 
-### Cocktail Finder
+### Cocktail Finder — [Frontend](https://github.com/lina98st/cocktail-finder) · [Backend](https://github.com/lina98st/cocktail-finder-backend)
 
-Built a React app integrating the TheCocktailDB REST API, featuring dynamic routing, form validation with Formik, and a dynamic ingredient parser handling variable API data structures.
+A full-stack web app built on top of the TheCocktailDB REST API. The frontend uses React with dynamic routing and Formik-based form validation, including a custom ingredient parser that handles inconsistent API response structures. The backend is a Node.js / Express / MongoDB REST API with JWT authentication, role-based access control, and protected CRUD endpoints.
 
-Built a RESTful API with Node.js, Express, and MongoDB, featuring JWT based authentication, role based access control, HTTPS, CORS, and full CRUD operations with protected endpoints.
+### Cocktail App — React Native · [Repo](https://github.com/lina98st/cocktail-app-react-native)
 
-- [Frontend](https://github.com/lina98st/cocktail-finder)
-- [Backend](https://github.com/lina98st/cocktail-finder-backend)
-
-### Cocktail App React Native
-
-Built a cross-platform mobile app with React Native and Redux Toolkit, featuring global state management, favorites system, native share functionality, and nested stack and tab navigation.
-
-- [Repo](https://github.com/lina98st/cocktail-app-react-native)
+Cross-platform mobile version of the cocktail finder, built with React Native and Redux Toolkit. Features global state management, a favorites system, native share functionality, and nested stack/tab navigation.
 
 ---
 
-## 📚 Bootcamp
+## Education
 
-Completed the Nucamp Full Stack & Mobile Development Bootcamp, covering the full MERN stack (MongoDB, Express, React, Node.js), React Native, and topics including JWT authentication, OAuth, HTTPS, CORS, and cloud deployment with Google Cloud Functions, Firebase, and Google Cloud Storage.
-
----
-
-## 🌸 Philosophy
-
-<p align="center">
-  <i>Clean code. Thoughtful design. Real impact.</i>
-</p>
+**Nucamp Full Stack & Mobile Development Bootcamp**
+Covered the full MERN stack, React Native, and topics including JWT, OAuth, HTTPS, CORS, and cloud deployment with Google Cloud Functions, Firebase, and Google Cloud Storage.
