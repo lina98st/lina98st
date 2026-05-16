@@ -4,6 +4,9 @@ Frontend-focused fullstack developer. I build interfaces that feel good to use a
 
 Currently based in Germany.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alina-schmi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-lightgrey?style=flat-square)](#)
+
 ---
 
 ## Tech Stack
