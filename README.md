@@ -55,7 +55,3 @@ Cross-platform mobile version of the cocktail finder, built with React Native an
 
 **Nucamp Full Stack & Mobile Development Bootcamp**
 Covered the full MERN stack, React Native, and topics including JWT, OAuth, HTTPS, CORS, and cloud deployment with Google Cloud Functions, Firebase, and Google Cloud Storage.
-
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lina98st&show_icons=true&hide_border=true)]
