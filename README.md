@@ -46,9 +46,3 @@ A full-stack web app built on top of the TheCocktailDB REST API. The frontend us
 ### Cocktail App — React Native · [Repo](https://github.com/lina98st/cocktail-app-react-native)
 Cross-platform mobile version of the cocktail finder, built with React Native and Redux Toolkit. Features global state management, a favorites system, native share functionality, and nested stack/tab navigation.
 
----
-
-## Education
-
-**Nucamp Full Stack & Mobile Development Bootcamp**
-Covered the full MERN stack, React Native, and topics including JWT, OAuth, HTTPS, CORS, and cloud deployment with Google Cloud Functions, Firebase, and Google Cloud Storage.
