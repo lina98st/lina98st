@@ -7,7 +7,7 @@ Currently based in Germany.
 
 ---
 
-## Tech 
+## Tech Stack
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
