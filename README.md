@@ -1,5 +1,5 @@
 # Hi, I'm Alina 👋
-Frontend-focused fullstack developer. I build interfaces that feel good to use and APIs that support them properly. Self-taught over the past two years, working across the full MERN stack with a strong preference for the frontend side.
+Frontend-focused fullstack developer. I build interfaces that feel good to use and APIs that support them properly. Self-taught over the past two years, with a strong preference for the frontend side.
 Currently based in Germany.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alina-schmi/)
