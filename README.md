@@ -52,8 +52,5 @@ A full-stack web app built on top of the TheCocktailDB REST API. The frontend us
 ### Cocktail App — React Native · [Repo](https://github.com/lina98st/cocktail-app-react-native)
 Cross-platform mobile version of the cocktail finder, built with React Native and Redux Toolkit. Features global state management, a favorites system, native share functionality, and nested stack/tab navigation.
 
-### Guess the Number
-[Repo](https://github.com/lina98st/guess-the-number)
-
-A small Python number guessing game. The player tries to guess a randomly generated number with hints after each attempt. Built to practice Python fundamentals like conditionals loops and user input handling. Simple console project focused on core language basics such as loops and input validation.
-
+### Guess the Number — [Repo](https://github.com/lina98st/guess-the-number)
+A small Python number guessing game. The player tries to guess a randomly generated number with hints after each attempt. Built to practice Python fundamentals like conditionals, loops and user input handling.
