@@ -44,7 +44,7 @@ Currently based in Germany.
 ## Projects
 
 ### taskflow — [Repo](https://github.com/lina98st/taskflow) · *in development*
-A task management dashboard currently in development. Built with Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Auth.js and Jest. Users can sign up, log in and manage their tasks including creating, editing, deleting and filtering by status. Authentication and database logic are fully self-implemented.
+A task management dashboard currently in development. Built with Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Auth.js and Jest. Users can sign up, log in and manage their tasks including creating, editing, deleting and filtering by status. 
 
 ### Cocktail Finder — [Frontend](https://github.com/lina98st/cocktail-finder) · [Backend](https://github.com/lina98st/cocktail-finder-backend) · [Live Demo](https://cocktailfinder-alina.netlify.app/)
 A full-stack web app built on top of the TheCocktailDB REST API. The frontend uses React with dynamic routing and Formik-based form validation, including a custom ingredient parser that handles inconsistent API response structures. The backend is a Node.js / Express / MongoDB REST API with JWT authentication, role-based access control, and protected CRUD endpoints.
