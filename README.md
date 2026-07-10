@@ -1,6 +1,6 @@
 # Hi, I'm Alina
 
-Frontend focused full stack developer. I build interfaces that feel good to use and APIs that support them. Self taught over the past two years, with a strong focus on frontend development. Currently based in Germany.
+Frontend focused full stack developer. I build intuitive user interfaces and the APIs that power them. Self taught over the past two years, with a strong focus on frontend development. Based in Germany.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alina-schmi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-online-ff4d8d?style=flat-square)](https://alina-dev.vercel.app/)
@@ -53,7 +53,7 @@ A task management dashboard currently in development. Built with Next.js, TypeSc
 
 ### Cocktail Finder · [Frontend](https://github.com/lina98st/cocktail-finder) · [Backend](https://github.com/lina98st/cocktail-finder-backend) · [Live Demo](https://cocktailfinder-alina.netlify.app/)
 
-A full stack web application built on top of the TheCocktailDB REST API. The frontend uses React with dynamic routing, Formik based form validation, and a custom ingredient parser that handles inconsistent API responses. The backend is a Node.js, Express, and MongoDB REST API with JWT authentication, role based access control, and protected CRUD endpoints.
+A full stack web application built on top of the TheCocktailDB REST API. The frontend uses React with dynamic routing, Formik for form validation, and a custom ingredient parser that handles inconsistent API responses. The backend is built with Node.js, Express, and MongoDB, and includes JWT authentication, role based access control, and protected CRUD endpoints.
 
 ### Cocktail App · React Native · [Repo](https://github.com/lina98st/cocktail-app-react-native)
 
@@ -61,4 +61,5 @@ A cross platform mobile version of Cocktail Finder built with React Native and R
 
 ### Guess the Number · [Repo](https://github.com/lina98st/guess-the-number)
 
-A simple Python number guessing game where the player tries to guess a randomly generated number with hints after each attempt. Built to practice Python fundamentals, including conditionals, loops, and user input.
+A simple Python number guessing game where players try to guess a randomly generated number with hints after each attempt. Built to practice Python fundamentals, including conditionals, loops, and user input.
+
