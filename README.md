@@ -25,6 +25,7 @@ Frontend focused full stack developer. I build intuitive user interfaces and the
 
 **Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 
 **Mobile**
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
@@ -39,7 +40,6 @@ Frontend focused full stack developer. I build intuitive user interfaces and the
 
 ## Currently Learning
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square\&logo=jest\&logoColor=white)
