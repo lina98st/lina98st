@@ -31,11 +31,11 @@ Frontend focused full stack developer. I build intuitive user interfaces and the
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 
 **Cloud & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square\&logo=netlify\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## Currently Learning
