@@ -64,7 +64,3 @@ A full stack web application built on top of the TheCocktailDB REST API. The fro
 
 A cross platform mobile version of Cocktail Finder built with React Native and Redux Toolkit. Features include global state management, a favorites system, native sharing, and nested stack and tab navigation.
 
-### Guess the Number · [Repo](https://github.com/lina98st/guess-the-number)
-
-A simple Python number guessing game where players try to guess a randomly generated number with hints after each attempt. Built to practice Python fundamentals, including conditionals, loops, and user input.
-
