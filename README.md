@@ -52,6 +52,10 @@ Frontend focused full stack developer. I build intuitive user interfaces and the
 
 A task management dashboard currently in development. Built with Next.js, TypeScript, Tailwind CSS, PostgreSQL, Prisma, Auth.js, and Jest. Users can sign up, log in, and manage their tasks by creating, editing, deleting, and filtering them by status.
 
+### Recipe API · [Repo](https://github.com/lina98st/recipe-api)
+
+A RESTful recipe management API built with Python, Flask, PostgreSQL, SQLAlchemy, Alembic, and Docker. Features include CRUD operations, relational database modeling, database migrations, API testing with Insomnia, and query optimization using database indexing.
+
 ### Cocktail Finder · [Frontend](https://github.com/lina98st/cocktail-finder) · [Backend](https://github.com/lina98st/cocktail-finder-backend) · [Live Demo](https://cocktailfinder-alina.netlify.app/)
 
 A full stack web application built on top of the TheCocktailDB REST API. The frontend uses React with dynamic routing, Formik for form validation, and a custom ingredient parser that handles inconsistent API responses. The backend is built with Node.js, Express, and MongoDB, and includes JWT authentication, role based access control, and protected CRUD endpoints.
