@@ -1,6 +1,6 @@
 # Hi, I'm Alina
 
-Frontend focused full stack developer. I build intuitive user interfaces and the APIs that power them. Self taught over the past two years, with a focus on frontend development. Based in Germany.
+Frontend focused full stack developer. I build intuitive user interfaces and the APIs that power them. Self taught over the past two years, with a focus on frontend development. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alina-schmi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-online-ff4d8d?style=flat-square)](https://alina-dev.vercel.app/)
