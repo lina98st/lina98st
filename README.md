@@ -38,12 +38,6 @@ Frontend focused full stack developer. I build intuitive user interfaces and the
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Currently Learning
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square\&logo=jest\&logoColor=white)
-
 ---
 
 ## Projects
