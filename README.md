@@ -6,17 +6,18 @@ I've been coding for the past two years, exploring both frontend and backend dev
 
 [LinkedIn](https://www.linkedin.com/in/alina-schmi/) · [Portfolio](https://alina-dev.vercel.app/)
 
-## Selected Projects
+---
 
-### [taskflow](https://github.com/lina98st/taskflow)
+## Projects
 
-Task management application built with Next.js and TypeScript. Currently in development.
+### taskflow · [Repo](https://github.com/lina98st/taskflow) · *In Development*
 
-### [Recipe API](https://github.com/lina98st/recipe-api)
+A task management application built with Next.js and TypeScript. Users can sign up, log in and manage their tasks.
 
-REST API built with Python and PostgreSQL, covering relational data modeling, migrations, testing and database optimization.
+### Recipe API · [Repo](https://github.com/lina98st/recipe-api)
 
-### [Cocktail Finder](https://github.com/lina98st/cocktail-finder)
+A REST API built with Python and PostgreSQL, covering relational data modeling, database migrations and query optimization.
 
-Full stack web application with authentication, protected routes and CRUD functionality.
+### Cocktail Finder · [Frontend](https://github.com/lina98st/cocktail-finder) · [Backend](https://github.com/lina98st/cocktail-finder-backend) · [Live Demo](https://cocktailfinder-alina.netlify.app/)
 
+A full stack web application with a React frontend and a Node.js, Express and MongoDB backend. Includes authentication, protected routes and CRUD functionality.
