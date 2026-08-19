@@ -2,7 +2,7 @@
 
 I enjoy building web applications, with a particular interest in frontend development and JavaScript.
 
-I've been coding for the past two years, exploring both frontend and backend development through personal projects and continuous learning.
+I've been building personal projects across frontend and backend development, with a focus on continuously improving my skills.
 
 [LinkedIn](https://www.linkedin.com/in/alina-schmi/) · [Portfolio](https://alina-dev.vercel.app/)
 
