@@ -4,6 +4,8 @@ I enjoy building web applications, with a particular interest in frontend develo
 
 I've been building personal projects across frontend and backend development, with a focus on continuously improving my skills.
 
+Coding since 2024
+
 [LinkedIn](https://www.linkedin.com/in/alina-schmi/) · [Portfolio](https://alina-dev.vercel.app/)
 
 ---
