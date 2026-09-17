@@ -14,7 +14,7 @@ Working in IT since 2019
 
 ## Projects
 
-### taskflow · [Repo](https://github.com/lina98st/taskflow) · *In Development*
+### Task Management App · [Repo](https://github.com/lina98st/task-management-app) · *In Development*
 
 A task management application built with Next.js and TypeScript. Users can sign up, log in and manage their tasks.
 
@@ -25,3 +25,4 @@ A REST API built with Python and PostgreSQL, covering relational data modeling, 
 ### Cocktail Finder · [Frontend](https://github.com/lina98st/cocktail-finder) · [Backend](https://github.com/lina98st/cocktail-finder-backend) · [Live Demo](https://cocktailfinder-alina.netlify.app/)
 
 A full stack web application with a React frontend and a Node.js, Express and MongoDB backend. Includes authentication, protected routes and CRUD functionality.
+
