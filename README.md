@@ -4,8 +4,7 @@ I enjoy building web applications, with a particular interest in frontend develo
 
 I've been building personal projects across frontend and backend development, with a focus on continuously improving my skills.
 
-Coding since 2024
-
+Coding since 2024  
 Working in IT since 2019
 
 [LinkedIn](https://www.linkedin.com/in/alina-schmi/) · [Portfolio](https://alina-dev.vercel.app/)
@@ -14,9 +13,9 @@ Working in IT since 2019
 
 ## Projects
 
-### Task Management App · [Repo](https://github.com/lina98st/task-management-app) · *In Development*
+### Task Management App · [Repo](https://github.com/lina98st/task-management-app) · [Live Demo](https://task-management-app-cyan-kappa.vercel.app/)
 
-A task management application built with Next.js and TypeScript. Users can sign up, log in and manage their tasks.
+A full stack task management application built with Next.js, TypeScript, PostgreSQL and Prisma. Includes authentication, protected routes and user-specific task management with CRUD functionality.
 
 ### Recipe API · [Repo](https://github.com/lina98st/recipe-api)
 
@@ -25,4 +24,3 @@ A REST API built with Python and PostgreSQL, covering relational data modeling, 
 ### Cocktail Finder · [Frontend](https://github.com/lina98st/cocktail-finder) · [Backend](https://github.com/lina98st/cocktail-finder-backend) · [Live Demo](https://cocktailfinder-alina.netlify.app/)
 
 A full stack web application with a React frontend and a Node.js, Express and MongoDB backend. Includes authentication, protected routes and CRUD functionality.
-
