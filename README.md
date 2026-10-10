@@ -15,7 +15,7 @@ Working in IT since 2019
 
 ### Task Management App · [Repo](https://github.com/lina98st/task-management-app) · [Live Demo](https://task-management-app-cyan-kappa.vercel.app/)
 
-A full stack task management application built with Next.js, TypeScript, PostgreSQL and Prisma. Includes authentication, protected routes and user-specific task management with CRUD functionality.
+A full-stack project and task management application built with Next.js, TypeScript, Tailwind CSS, PostgreSQL and Prisma. Features include Auth.js authentication, protected routes, user-specific data, CRUD operations, task priorities, a Kanban-style board and project progress tracking.
 
 ### Recipe API · [Repo](https://github.com/lina98st/recipe-api)
 
